@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m303\\Desktop\\115_C_Sharp\\115_10_08\\Tutorial2_5\\Tutorial2_5.csproj",
+      "projectUniqueName": "C:\\Users\\m303\\Documents\\GitHub\\115_1_C-Sharp\\115_10_08\\Tutorial2_5\\Tutorial2_5.csproj",
       "projectName": "Tutorial2_5",
-      "projectPath": "C:\\Users\\m303\\Desktop\\115_C_Sharp\\115_10_08\\Tutorial2_5\\Tutorial2_5.csproj",
+      "projectPath": "C:\\Users\\m303\\Documents\\GitHub\\115_1_C-Sharp\\115_10_08\\Tutorial2_5\\Tutorial2_5.csproj",
       "packagesPath": "C:\\Users\\m303\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m303\\Desktop\\115_C_Sharp\\115_10_08\\Tutorial2_5\\obj\\",
+      "outputPath": "C:\\Users\\m303\\Documents\\GitHub\\115_1_C-Sharp\\115_10_08\\Tutorial2_5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
