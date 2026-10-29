@@ -38,5 +38,10 @@ namespace Loan_Qualifier
             // Close the form.
             this.Close();
         }
+
+        private void outputDescriptionLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

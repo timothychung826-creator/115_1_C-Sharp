@@ -42,58 +42,66 @@
             // salaryPromptLabel
             // 
             this.salaryPromptLabel.AutoSize = true;
-            this.salaryPromptLabel.Location = new System.Drawing.Point(60, 13);
+            this.salaryPromptLabel.Location = new System.Drawing.Point(90, 18);
+            this.salaryPromptLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.salaryPromptLabel.Name = "salaryPromptLabel";
-            this.salaryPromptLabel.Size = new System.Drawing.Size(73, 13);
+            this.salaryPromptLabel.Size = new System.Drawing.Size(44, 18);
             this.salaryPromptLabel.TabIndex = 0;
-            this.salaryPromptLabel.Text = "Annual salary:";
+            this.salaryPromptLabel.Text = "年薪";
             // 
             // yearsPromptLabel
             // 
             this.yearsPromptLabel.AutoSize = true;
-            this.yearsPromptLabel.Location = new System.Drawing.Point(31, 39);
+            this.yearsPromptLabel.Location = new System.Drawing.Point(46, 54);
+            this.yearsPromptLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.yearsPromptLabel.Name = "yearsPromptLabel";
-            this.yearsPromptLabel.Size = new System.Drawing.Size(102, 13);
+            this.yearsPromptLabel.Size = new System.Drawing.Size(116, 18);
             this.yearsPromptLabel.TabIndex = 1;
-            this.yearsPromptLabel.Text = "Years at current job:";
+            this.yearsPromptLabel.Text = "目前工作年資";
             // 
             // salaryTextBox
             // 
-            this.salaryTextBox.Location = new System.Drawing.Point(138, 9);
+            this.salaryTextBox.Location = new System.Drawing.Point(207, 12);
+            this.salaryTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.salaryTextBox.Name = "salaryTextBox";
-            this.salaryTextBox.Size = new System.Drawing.Size(100, 20);
+            this.salaryTextBox.Size = new System.Drawing.Size(148, 29);
             this.salaryTextBox.TabIndex = 2;
             // 
             // yearsTextBox
             // 
-            this.yearsTextBox.Location = new System.Drawing.Point(138, 35);
+            this.yearsTextBox.Location = new System.Drawing.Point(207, 48);
+            this.yearsTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.yearsTextBox.Name = "yearsTextBox";
-            this.yearsTextBox.Size = new System.Drawing.Size(100, 20);
+            this.yearsTextBox.Size = new System.Drawing.Size(148, 29);
             this.yearsTextBox.TabIndex = 3;
             // 
             // outputDescriptionLabel
             // 
             this.outputDescriptionLabel.AutoSize = true;
-            this.outputDescriptionLabel.Location = new System.Drawing.Point(12, 73);
+            this.outputDescriptionLabel.Location = new System.Drawing.Point(46, 97);
+            this.outputDescriptionLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.outputDescriptionLabel.Name = "outputDescriptionLabel";
-            this.outputDescriptionLabel.Size = new System.Drawing.Size(76, 13);
+            this.outputDescriptionLabel.Size = new System.Drawing.Size(121, 18);
             this.outputDescriptionLabel.TabIndex = 4;
-            this.outputDescriptionLabel.Text = "Loan decision:";
+            this.outputDescriptionLabel.Text = "貸款審核結果:";
+            this.outputDescriptionLabel.Click += new System.EventHandler(this.outputDescriptionLabel_Click);
             // 
             // decisionLabel
             // 
             this.decisionLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.decisionLabel.Location = new System.Drawing.Point(12, 96);
+            this.decisionLabel.Location = new System.Drawing.Point(18, 133);
+            this.decisionLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.decisionLabel.Name = "decisionLabel";
-            this.decisionLabel.Size = new System.Drawing.Size(260, 23);
+            this.decisionLabel.Size = new System.Drawing.Size(389, 31);
             this.decisionLabel.TabIndex = 5;
             this.decisionLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // checkButton
             // 
-            this.checkButton.Location = new System.Drawing.Point(12, 135);
+            this.checkButton.Location = new System.Drawing.Point(18, 187);
+            this.checkButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.checkButton.Name = "checkButton";
-            this.checkButton.Size = new System.Drawing.Size(82, 35);
+            this.checkButton.Size = new System.Drawing.Size(123, 48);
             this.checkButton.TabIndex = 6;
             this.checkButton.Text = "Check Qualifications";
             this.checkButton.UseVisualStyleBackColor = true;
@@ -101,9 +109,10 @@
             // 
             // clearButton
             // 
-            this.clearButton.Location = new System.Drawing.Point(100, 135);
+            this.clearButton.Location = new System.Drawing.Point(150, 187);
+            this.clearButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.clearButton.Name = "clearButton";
-            this.clearButton.Size = new System.Drawing.Size(82, 35);
+            this.clearButton.Size = new System.Drawing.Size(123, 48);
             this.clearButton.TabIndex = 7;
             this.clearButton.Text = "Clear";
             this.clearButton.UseVisualStyleBackColor = true;
@@ -111,9 +120,10 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(188, 135);
+            this.exitButton.Location = new System.Drawing.Point(282, 187);
+            this.exitButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.exitButton.Name = "exitButton";
-            this.exitButton.Size = new System.Drawing.Size(82, 35);
+            this.exitButton.Size = new System.Drawing.Size(123, 48);
             this.exitButton.TabIndex = 8;
             this.exitButton.Text = "Exit";
             this.exitButton.UseVisualStyleBackColor = true;
@@ -121,9 +131,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 183);
+            this.ClientSize = new System.Drawing.Size(426, 253);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.clearButton);
             this.Controls.Add(this.checkButton);
@@ -133,6 +143,7 @@
             this.Controls.Add(this.salaryTextBox);
             this.Controls.Add(this.yearsPromptLabel);
             this.Controls.Add(this.salaryPromptLabel);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Loan Qualifier";
             this.ResumeLayout(false);
