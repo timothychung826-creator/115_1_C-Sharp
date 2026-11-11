@@ -17,7 +17,7 @@ namespace Test_Score_Average
             InitializeComponent();
         }
 
-        private void calculateButton_Click(object sender, EventArgs e)
+        private void CalculateButton_Click(object sender, EventArgs e)
         {
             const double HIGH_SCORE = 95.0; // High Score value
             double test1, test2, test3, average;
@@ -47,7 +47,7 @@ namespace Test_Score_Average
             } 
         }
 
-        private void clearButton_Click(object sender, EventArgs e)
+        private void ClearButton_Click(object sender, EventArgs e)
         {
             // Clear the TextBoxes and the averageLabel control.
             test1TextBox.Text = "";
@@ -59,20 +59,15 @@ namespace Test_Score_Average
             test1TextBox.Focus();
         }
 
-        private void exitButton_Click(object sender, EventArgs e)
+        private void ExitButton_Click(object sender, EventArgs e)
         {
             // Close the form.
             this.Close();
         }
 
-        private void testScoreGroupBox_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void test3promptLabel_Click(object sender, EventArgs e)
-        {
+        
+        
 
         }
     }
-}
+

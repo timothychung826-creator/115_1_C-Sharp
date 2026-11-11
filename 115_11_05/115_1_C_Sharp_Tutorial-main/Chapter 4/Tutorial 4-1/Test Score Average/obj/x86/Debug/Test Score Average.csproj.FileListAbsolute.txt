@@ -34,3 +34,10 @@ C:\Users\m303\Documents\GitHub\115_1_C-Sharp\115_10_29\115_1_C_Sharp_Tutorial-ma
 C:\Users\m303\Documents\GitHub\115_1_C-Sharp\115_10_29\115_1_C_Sharp_Tutorial-main\Chapter 4\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.exe
 C:\Users\m303\Documents\GitHub\115_1_C-Sharp\115_10_29\115_1_C_Sharp_Tutorial-main\Chapter 4\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.pdb
 C:\Users\m303\Documents\GitHub\115_1_C-Sharp\115_10_29\115_1_C_Sharp_Tutorial-main\Chapter 4\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.exe.config
+C:\Users\User\Documents\GitHub\115_1_C-Sharp\115_11_05\115_1_C_Sharp_Tutorial-main\Chapter 4\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\115_1_C-Sharp\115_11_05\115_1_C_Sharp_Tutorial-main\Chapter 4\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test_Score_Average.Form1.resources
+C:\Users\User\Documents\GitHub\115_1_C-Sharp\115_11_05\115_1_C_Sharp_Tutorial-main\Chapter 4\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test_Score_Average.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\115_1_C-Sharp\115_11_05\115_1_C_Sharp_Tutorial-main\Chapter 4\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\115_1_C-Sharp\115_11_05\115_1_C_Sharp_Tutorial-main\Chapter 4\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\115_1_C-Sharp\115_11_05\115_1_C_Sharp_Tutorial-main\Chapter 4\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.exe
+C:\Users\User\Documents\GitHub\115_1_C-Sharp\115_11_05\115_1_C_Sharp_Tutorial-main\Chapter 4\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.pdb
